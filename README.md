@@ -19,7 +19,7 @@
    ### Блок-схема
    ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
 ## 2. Реализация программы 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/pankovadr/Dz8./blob/master/2026-10-18_17-46-13.png)
 ## 3.Результаты работы программы
 Введите значение n: 6
 Результат произведения для n = 6: 0,225586
