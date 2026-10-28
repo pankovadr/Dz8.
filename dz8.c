@@ -1,18 +1,18 @@
-#define _CRT_SECURE_NO_WARNINGS
+п»ї#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <locale.h>
 int main() {
 	setlocale(LC_ALL, "RUS");
     int n;
     double res = 1.0;
-    printf("Введите значение n: ");
+    printf("Р’РІРµРґРёС‚Рµ Р·РЅР°С‡РµРЅРёРµ n: ");
     if (scanf("%d", &n) != 1 || n <= 0) {
-        printf("Ошибка: n должно быть целым положительным числом.\n");
+        printf("РћС€РёР±РєР°: n РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ С†РµР»С‹Рј РїРѕР»РѕР¶РёС‚РµР»СЊРЅС‹Рј С‡РёСЃР»РѕРј.\n");
         return 1;
     }
     for (int i = 1; i <= n; i++) {
         res *= (1.0 - 1.0 / (2.0 * i));
     }
-    printf("Результат произведения для n = %d: %lf\n", n, res);
+    printf("Р РµР·СѓР»СЊС‚Р°С‚ РїСЂРѕРёР·РІРµРґРµРЅРёСЏ РґР»СЏ n = %d: %lf\n", n, res);
     return 0;
 }
