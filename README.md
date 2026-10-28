@@ -1,7 +1,7 @@
 # Домашнее задание №8
 ## Условие задачи
 Вычислить с использованием цикла for значение для заданного n:
-\left(1 - \frac{1}{2}\right)\left(1 - \frac{1}{4}\right)\left(1 - \frac{1}{6}\right) \times \ldots \times \left(1 - \frac{1}{2n}\right)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]()
 ## 1. Алгоритм и блок-схема
 ### Алгоритм
 1. **Начало**
